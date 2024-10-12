@@ -4,6 +4,7 @@ import { Routes,Route } from 'react-router-dom';
 
 import Cart from './pages/Cart/Cart';
 import PlaceOrder from './pages/PlaceOrder/PlaceOrder';
+import Home from './pages/Home/Home';
 
 const App = () => {
   return (
