@@ -1,7 +1,7 @@
 import React from 'react'
 import './PlaceOrder.css'
 
-function PlaceOrder() {
+const PlaceOrder=() =>{
   return (
     <div>PlaceOrder</div>
   )

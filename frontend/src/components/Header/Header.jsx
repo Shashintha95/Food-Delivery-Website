@@ -1,5 +1,5 @@
 import React from 'react'
-import './Header.css'
+import './Header.css'//link css file with jsx file
 
 const Header = () => {
   return (

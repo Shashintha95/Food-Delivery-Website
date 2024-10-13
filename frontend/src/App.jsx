@@ -11,6 +11,7 @@ const App = () => {
     <div className='app'>
       <Navbar/>
       <Routes>
+        
         <Route path='/' element={<Home/>} /> 
         <Route path='/cart' element={<Cart/>} />
         <Route path='/order' element={<PlaceOrder/>} />
@@ -22,3 +23,4 @@ const App = () => {
 }
 
 export default App
+//create route stacks
